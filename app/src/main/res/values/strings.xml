@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Valentine\'s Card</string>
+    <string name="happy_text">Happy</string>
+    <string name="valentines_text">Valentine\'s</string>
 </resources>
